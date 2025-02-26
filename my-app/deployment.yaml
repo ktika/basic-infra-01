@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ktika/nginx:v1.23.4
+        image: ktika/nginx:v1.24.0
         ports:
         - containerPort: 80
